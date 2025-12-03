@@ -33,6 +33,7 @@ body{
 }
 
 header{
+    top: 0;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -211,6 +212,7 @@ footer{
     padding: 16px 5%;
     width: 100%;
     margin-top: auto;
+    bottom: 0;
 }
 
 footer a:hover{
